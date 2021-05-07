@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DATABASE_URL</key>
+	<string>https://tuwaiqspace-895e9-default-rtdb.firebaseio.com/</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>CLIENT_ID</key>
+	<string>1023964740507-am8i3p0qo4s353i8knfdogckmjt71pu0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1023964740507-am8i3p0qo4s353i8knfdogckmjt71pu0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBK2qOmyA7_vdMF8AhI2Zyt8ChJ8Uf0GUo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1023964740507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.badriah.twuaiq-space</string>
+	<key>PROJECT_ID</key>
+	<string>tuwaiqspace-895e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tuwaiqspace-895e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1023964740507:ios:5435f3f482fcfa3ff2ff3e</string>
+</dict>
+</plist>

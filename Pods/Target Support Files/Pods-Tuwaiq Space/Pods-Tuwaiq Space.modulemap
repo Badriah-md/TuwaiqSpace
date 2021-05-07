@@ -1,0 +1,6 @@
+framework module Pods_Tuwaiq_Space {
+  umbrella header "Pods-Tuwaiq Space-umbrella.h"
+
+  export *
+  module * { export * }
+}
